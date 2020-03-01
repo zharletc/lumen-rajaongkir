@@ -1,0 +1,17 @@
+{
+    "name": "zharlet/rajaongkir",
+    "description": "RajaOngkir API Package",
+    "authors": [
+        {
+            "name": "Azhar Ogi",
+            "email": "azharogi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+             "Zharletc\\Rajaongkir\\": "src/"
+        }
+    },
+}
